@@ -1,0 +1,29 @@
+.nr {
+  color: black;
+  width: 15%;
+  font-family: "Franklin Gothic Medium";
+  font-size: 44px;
+  text-align: center;
+}
+
+.artistImage {
+  width: 20%;
+  text-align: center;
+  font-size: 80%;
+}
+
+.songTitle {
+  width: 35%;
+  font-family: "Franklin Gothic Medium";
+  font-size: 20px;
+  text-align: center;
+  line-height: 180%;
+}
+
+.fav {
+  fill: red;
+}
+
+.unfav {
+  fill: black;
+}

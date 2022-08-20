@@ -1,0 +1,23 @@
+.header {
+  line-height: 1.25;
+  padding-top: -0.5rem;
+  font-size: 3.1875rem;
+  text-align: center;
+  color: goldenrod;
+  letter-spacing: 0.03375rem;
+  font-weight: bold;
+  font-family: "neue-haas-grotesk-display", Times New Roman, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.bottomLine {
+  width: 40%;
+  border-top: 6px solid goldenrod;
+  padding-top: var(--spacing-1, 1rem);
+  padding-bottom: var(--spacing-1, 1rem);
+  padding-left: var(--spacing-050, 0.5rem);
+  padding-right: var(--spacing-050, 0.5rem);
+  justify-content: space-between;
+  margin: auto;
+}
